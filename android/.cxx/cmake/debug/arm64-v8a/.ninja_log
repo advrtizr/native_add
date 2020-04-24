@@ -1,0 +1,6 @@
+# ninja log v5
+0	97	0	CMakeFiles/native_add.dir/D_/DEV/Projects/Mobile/native_add/ios/Classes/native_add.c.o	73f1c0421a891445
+97	174	0	D:/DEV/Projects/Mobile/plugin_connection_test_app/build/native_add/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	cb2f4eab6c96c968
+2	145	0	build.ninja	17081bb1f1479ccc
+1	79	0	CMakeFiles/native_add.dir/D_/DEV/Projects/Mobile/native_add/ios/Classes/native_add.c.o	73f1c0421a891445
+84	143	0	D:/DEV/Projects/Mobile/plugin_connection_test_app/build/native_add/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	cb2f4eab6c96c968

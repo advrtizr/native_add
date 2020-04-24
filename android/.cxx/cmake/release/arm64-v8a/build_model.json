@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\DEV\\Projects\\Mobile\\plugin_connection_test_app\\android",
+      "sdkFolder": "C:\\Users\\Codemkr\\AppData\\Local\\Android\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\DEV\\Projects\\Mobile\\plugin_connection_test_app\\build\\native_add\\intermediates",
+      "gradleModulePathName": ":native_add",
+      "moduleRootFolder": "D:\\DEV\\Projects\\Mobile\\native_add\\android",
+      "makeFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\DEV\\Projects\\Mobile\\plugin_connection_test_app\\android\\.cxx",
+      "cxxFolder": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx",
+      "ndkFolder": "C:\\Users\\Codemkr\\AppData\\Local\\Android\\sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "D:\\DEV\\Projects\\Mobile\\plugin_connection_test_app\\build\\native_add\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\DEV\\Projects\\Mobile\\plugin_connection_test_app\\build\\native_add\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release\\arm64-v8a",
+  "jsonFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a",
+  "objFolder": "D:\\DEV\\Projects\\Mobile\\plugin_connection_test_app\\build\\native_add\\intermediates\\cmake\\release\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cxx\\release\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\DEV\\Projects\\Mobile\\native_add\\android\\.cxx\\cmake\\release\\arm64-v8a\\compile_commands.json"
+}

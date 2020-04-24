@@ -1,0 +1,3 @@
+D:/DEV/Projects/Mobile/native_add/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native_add.dir
+D:/DEV/Projects/Mobile/native_add/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/DEV/Projects/Mobile/native_add/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

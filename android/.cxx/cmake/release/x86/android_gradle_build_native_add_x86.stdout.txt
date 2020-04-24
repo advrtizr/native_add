@@ -1,0 +1,2 @@
+[1/2] Building C object CMakeFiles/native_add.dir/D_/DEV/Projects/Mobile/native_add/ios/Classes/native_add.c.o
+[2/2] Linking C shared library D:\DEV\Projects\Mobile\plugin_connection_test_app\build\native_add\intermediates\cmake\release\obj\x86\libnative_add.so

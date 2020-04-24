@@ -1,0 +1,5 @@
+# ninja log v5
+0	105	0	CMakeFiles/native_add.dir/D_/DEV/Projects/Mobile/native_add/ios/Classes/native_add.c.o	ac09babf9142f6ac
+105	177	0	D:/DEV/Projects/Mobile/plugin_connection_test_app/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so	5d33256205836d9b
+0	85	0	CMakeFiles/native_add.dir/D_/DEV/Projects/Mobile/native_add/ios/Classes/native_add.c.o	ac09babf9142f6ac
+86	152	0	D:/DEV/Projects/Mobile/plugin_connection_test_app/build/native_add/intermediates/cmake/debug/obj/x86/libnative_add.so	5d33256205836d9b

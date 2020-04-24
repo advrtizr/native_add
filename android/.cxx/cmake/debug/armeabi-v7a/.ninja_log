@@ -1,0 +1,5 @@
+# ninja log v5
+1	312	0	CMakeFiles/native_add.dir/D_/DEV/Projects/Mobile/native_add/ios/Classes/native_add.c.o	d1d6ebdff26f369
+313	392	0	D:/DEV/Projects/Mobile/plugin_connection_test_app/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	17b727f83eb1b5ad
+0	77	0	CMakeFiles/native_add.dir/D_/DEV/Projects/Mobile/native_add/ios/Classes/native_add.c.o	d1d6ebdff26f369
+78	150	0	D:/DEV/Projects/Mobile/plugin_connection_test_app/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	17b727f83eb1b5ad
